@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bnc-onboard": "^1.7.6",
-    "ethers": "^4.0.47",
+    "ethers": "^4.0.49",
     "next": "9.3.5",
     "react": "16.13.1",
     "react-dom": "16.13.1"

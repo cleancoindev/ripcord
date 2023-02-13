@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "bnc-onboard": "^1.7.6",
+    "bnc-onboard": "^1.39.1",
     "ethers": "^4.0.47",
     "next": "9.3.5",
     "react": "16.13.1",
